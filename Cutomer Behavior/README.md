@@ -50,3 +50,7 @@ Hasil dari Data Assessment yaitu **tidak terdapat duplikasi data** dan **tidak a
 - **Perempuan lebih banyak menambahkan item ke dalam keranjang (5.27)** namun rata-rata item yang dijual lebih sedikit dibandingkan laki-laki. Pertimbangkan untuk memberikan promo yang menargetkan perempuan sehingga angka penjualan bisa naik.
 - **Waktu yang dihabiskan perempuan lebih tinggi (31.55)** dibandingkan laki-laki (30.00) pertimbangkan untuk optimalkan sistem rekomendasi produk sehingga dapat meningkatkan pembelian dan mengurangi waktu yang dihabiskan untuk melakukan browsing.
 - **Total halaman yang dilihat oleh laki-laki lebih rendah (26.82) dibanding perempuan (27.58)** pertimbangkan untuk mengoptimalkan tata letak situs atau rekomendasi produk yang dapat menarik perhatian mereka.
+
+![perbandingan](https://github.com/dikfaj/Python/assets/39393133/125f8247-3ce6-4300-a4f5-b39738079cc1)
+- Waktu yang dihabiskan untuk menjelajahi produk, berkisar antara 10 hingga 20 menit, menunjukkan bahwa pengguna cenderung menambahkan sedikit item ke keranjang belanja, namun menghasilkan tingkat pembelian yang tinggi.
+- Waktu yang dihabiskan untuk menjelajahi produk, berkisar antara 10 hingga 50 menit, cenderung mengakibatkan penurunan tingkat pembelian, meskipun item yang ditambahkan ke keranjang mengalami fluktuasi.
