@@ -36,11 +36,9 @@ Hasil dari Data Assessment yaitu
 |Tipe data tidak sesuai|Fitur **Order Date** dan **Ship Date** tidak sesuai|Merubah tipe data menjadi **Datetime**|
 |Data yang tidak diperlukan|Fitur **Row ID** sama dengan index|Drop fitur||
 
-## C. Data Analysis
-### Exploratory Data Analysis
-#### Transaction Data
-##### Statistical Summary
-[Gamber]
+## Exploratory Data Analysis
+### Transaction Data
+#### Statistical Summary
 
 - **Transaksi paling besar** terjadi di tahun **2014**
 - **Transaksi bulanan terbesar** terjadi pada bulan **November**
@@ -48,31 +46,35 @@ Hasil dari Data Assessment yaitu
 - **Transaksi harian terbesar** dalam sebulan biasanya terjadi pada **tanggal 21**
 - **Transaksi harian terbesar** dalam seminggu biasanya terjadi pada **hari jumat**
 
-##### Number of Transaction per Month
-[Gambar]
+#### Number of Transaction per Month
+![transactionpermonth](https://github.com/dikfaj/Python/assets/39393133/8e5b5a3e-5f40-460f-8e9f-9226d537337a)
 
 Transaksi cenderung mengalami kenaikan yang **stabil dari bulan februari sampai agustus** dan mengalami **kenaikan yang signifikan di bulan september**. Lalu transaksi mengalami **penurunan yang drastis di bulan oktober**. Namun setelah itu transaksi mengalami **kenaikan yang signifikan di bulan november**. Perlu dilakukan analisis lebih lanjut mengenai hal ini.
 
-##### Daily Transaction Trend
-[Gamber]
+#### Number of Daily Transaction per Month
+![transactionperday](https://github.com/dikfaj/Python/assets/39393133/a4164723-d459-4b08-8008-624774ca73ad)
+Tren transaksi harian fluktuatif namun mengalami kenaikan pada akhir tahun. Transaksi **terbesar terjadi pada tanggal 3 September dan 11 November**.
+
+#### Daily Transaction Trend
+![dailytransaction](https://github.com/dikfaj/Python/assets/39393133/d5d034e8-904f-4611-a5a4-d92e21eba7ca)
 
 - Transaksi menurun signifikan di hari libur
 - **Jumat** adalah hari paling banyak **transaksi**
 
-#### Product Data
-##### Statistical Summary
-[Gamber]
+### Product Data
+#### Statistical Summary
+![Transaksi](https://github.com/dikfaj/Python/assets/39393133/51d12956-061d-4a13-ad90-a683d13d4c39)
 - Category paling banyak dibeli adalah **office supplies** denngan 60% dari total transaksi
 - **15.29%** dari customer membeli di sub category **binders**
 - **2.27%** dari customer membeli **staples**
 
-##### Sales and Profit by Category
-[Gamber]
+#### Sales and Profit by Category
+![salesandprofit](https://github.com/dikfaj/Python/assets/39393133/fb9b076d-043d-4784-9cbc-9e97d4644975)
 - **Technology** menghasilkan **sales dan profit** paling tinggi
 - Meskipun **sales** furniture dan office supplies tidak jauh berbeda, tetapi **ada perbedaan signifikan pada profit**
 
-#### Customer Data
-
+### Customer Data
+![customerdata](https://github.com/dikfaj/Python/assets/39393133/de5887cc-f492-4139-b6b3-20ed2bcab314)
 - **William Brown** merupakan customer yang paling sering bertransaksi
 - **51.94%** pelanggan berada pada segment **consumer**
 - **20.02%** pelanggan tinggal di **California**
@@ -89,10 +91,13 @@ Sistem scoring dijelaskan sebagai berikut:
 - **Monetary Score** : Mendapatkan **nilai 5** apabila pelanggan **menghabiskan jumlah uang yang paling banyak**. Mendapatkan **nilai 1** jika pelanggan **menghabiskan jumlah uang yang paling sedikit**.
 
 Berikut adalah sampel dari RFM Score dan segmentasinya.
-[gambar]
+![RFMtable](https://github.com/dikfaj/Python/assets/39393133/762a157f-7002-42b5-b741-e0b71a76ff72)
 
+** Penjelasan Segmentasi**
 
+![squarify](https://github.com/dikfaj/Python/assets/39393133/475ed3c3-ce54-4a19-9932-7c8b81381c8a)
 
+![monetar](https://github.com/dikfaj/Python/assets/39393133/9f78aa24-99e5-4a16-841e-7c9c377da0f9)
 - **Pelanggan paling banyak** berada pada segmen **Hibernating (21.56%), Loyal Customer (18.79%), dan Potential Loyalist (14.12%)**
 - **Hibernating** menjadi segment **terbesar** dengan 171 customer (21.56%) dengan rata-rata terakhir pembelian yaitu 376 hari atau lebih dari 1 tahun lalu.
 - **Sales tertinggi** berada pada segmen **Can't loose them (15,28%)** dan **Champion (14.11%)**
@@ -100,8 +105,8 @@ Berikut adalah sampel dari RFM Score dan segmentasinya.
 
 ## Recomendation
 Keseluruhan :
-- Mengingat transaksi yang paling sedikit terjadi pada hari Sabtu dan Minggu, dapat dibuatkan program khusus seperti "Weekend Sale."
-- Dengan sebagian besar pelanggan berada di California, mungkin layak untuk meluncurkan promosi khusus di wilayah tersebut.
+- Mengingat transaksi yang **paling sedikit** terjadi pada hari **Sabtu dan Minggu**, dapat dibuatkan program khusus seperti **Weekend Sale**.
+- Dengan **sebagian besar pelanggan** berada di **California**, mungkin layak untuk meluncurkan promosi khusus di wilayah tersebut.
 
 
 Berdasarkan jumlah pelanggan, segment paling besar yaitu Hibernating, Loyal Customer, dan Potential Analyts. Berikut beberapa hal yang bisa dilakukan:
