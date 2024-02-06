@@ -1,5 +1,5 @@
 
-# RFM Analysis Using Superstore Dataset
+# 🏬 RFM Analysis Using Superstore Dataset
 
 Tool : Jupyter Notebook\
 Programming Language : Python\
@@ -7,17 +7,21 @@ Libraries : Pandas\
 Visualization : Matplotlib, Seaborn\
 Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-## Table of Content
+## 🔖 Table of Content
+- [Overview](#overview)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [RFM Analysis](#rfm-analysis)
+- [Recomendation](#recomendation)
 
-
-## Overview
+## 📁 Overview
 Dengan meningkatnya permintaa dan persaingan ketat di pasar, Superstore Giant ingin mengetahui produk, wilayah, kategori, dan segmen pelanggan mana yang sebaiknya menjadi target atau dihindari.
 
 Apa yang akan dilakukan:
 * Exploratory Data Analysis
 * RFM Segmentation
 
-## Data Preprocessing
+## 📂 Data Preprocessing
 
 ### Data Overview
 Dataset terdiri dari 9994 records dan 21 fitur
@@ -39,7 +43,7 @@ Hasil dari Data Assessment yaitu
 |Tipe data tidak sesuai|Fitur **Order Date** dan **Ship Date** tidak sesuai|Merubah tipe data menjadi **Datetime**|
 |Data yang tidak diperlukan|Fitur **Row ID** sama dengan index|Drop fitur||
 
-## Exploratory Data Analysis
+## 📑 Exploratory Data Analysis
 ### Transaction Data
 #### Statistical Summary
 
@@ -83,7 +87,7 @@ Tren transaksi harian fluktuatif namun mengalami kenaikan pada akhir tahun. Tran
 - **20.02%** pelanggan tinggal di **California**
 - **32.04%** pelanggan berasal dari **West Region**
 
-## RFM Analysis
+## 🗃️ RFM Analysis
 Analisis Recency, Frequency, Monetary (RFM) merupakan proses analisis perilaku pelanggan. Dalam menentukan segmentasi pelanggan, digunakan model RFM berdasarkan tiga variabel yaitu recency terakhir melakukan transaksi, frequency dari transaksi, dan monetary dari jumlah transaksi setiap pelanggan.
 Sistem scoring dijelaskan sebagai berikut:
 
@@ -119,7 +123,7 @@ Berikut adalah interpretasi dari 10 segment
 - **Sales tertinggi** berada pada segmen **Can't loose them (15,28%)** dan **Champion (14.11%)**
 
 
-## Recomendation
+## 💡 Recomendation
 Keseluruhan :
 - Mengingat transaksi yang **paling sedikit** terjadi pada hari **Sabtu dan Minggu**, dapat dibuatkan program khusus seperti **Weekend Sale**.
 - Dengan **sebagian besar pelanggan** berada di **California**, mungkin layak untuk meluncurkan promosi khusus di wilayah tersebut.
