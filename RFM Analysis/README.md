@@ -17,7 +17,7 @@ Apa yang akan dilakukan:
 * Exploratory Data Analysis
 * RFM Segmentation
 
-## B. Data Preprocessing
+## Data Preprocessing
 
 ### Data Overview
 Dataset terdiri dari 9994 records dan 21 fitur
