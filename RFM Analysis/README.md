@@ -5,7 +5,7 @@ Tool : Jupyter Notebook\
 Programming Language : Python\
 Libraries : Pandas\
 Visualization : Matplotlib, Seaborn\
-Dataset : 
+Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Overview
 Dengan meningkatnya permintaa dan persaingan ketat di pasar, Superstore Giant ingin mengetahui produk, wilayah, kategori, dan segmen pelanggan mana yang sebaiknya menjadi target atau dihindari.
@@ -93,7 +93,20 @@ Sistem scoring dijelaskan sebagai berikut:
 Berikut adalah sampel dari RFM Score dan segmentasinya.
 ![RFMtable](https://github.com/dikfaj/Python/assets/39393133/762a157f-7002-42b5-b741-e0b71a76ff72)
 
-** Penjelasan Segmentasi**
+Berikut adalah interpretasi dari 10 segment
+
+|Segment|Interpretasi|
+|--------|-----------|
+|Champions|Transaksi baru-baru ini, sering bertransaksi, menghabiskan banyak uang|
+|Loyal Customers|Membeli secara rutin|
+|Potential Loyalist|Pembeli baru dengan frekuensi transaksi rata-rata|
+|New Customer|Pembeli terbaru, namun tidak sering bertransaksi|
+|Promising|Pembeli baru-baru ini, namun belum menghabiskan banyak uang|
+|Need Attention|Bertransaksi rata-rata, mungkin belum membeli akhir-akhir ini|
+|About to Sleep|Tidak sering bertransaksi, mungkin akan hilang bila tidak diaktifkan kembali|
+|At risk|Tidak sering bertransaksi, namun frekuensi pembelian diatas rata-rata|
+|Cant't lose them|Dulu sering bertransaksi namun sudah lama tidak kembali|
+|Hibernating|Pembelian terakhir sudah lama terjadi dan jumlah pesanan rendah|
 
 ![squarify](https://github.com/dikfaj/Python/assets/39393133/475ed3c3-ce54-4a19-9932-7c8b81381c8a)
 
