@@ -8,7 +8,7 @@ Visualization : Matplotlib, Seaborn\
 Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 🔖 Table of Content
-- [Overview](#overview)
+- [Overview](##-📁-overview)
 - [Data Preprocessing](##data-preprocessing)
 - [Exploratory Data Analysis](##exploratory-data-analysis)
 - [RFM Analysis](##rfm-analysis)
