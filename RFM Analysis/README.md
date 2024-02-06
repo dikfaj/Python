@@ -9,10 +9,10 @@ Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/supersto
 
 ## 🔖 Table of Content
 - [Overview](#overview)
-- [Data Preprocessing](##data-preprocessing)
-- [Exploratory Data Analysis](##exploratory-data-analysis)
-- [RFM Analysis](##rfm-analysis)
-- [Recomendation](##recomendation)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [RFM Analysis](#rfm-analysis)
+- [Recomendation](#recomendation)
 
 ## Overview
 Dengan meningkatnya permintaa dan persaingan ketat di pasar, Superstore Giant ingin mengetahui produk, wilayah, kategori, dan segmen pelanggan mana yang sebaiknya menjadi target atau dihindari.
