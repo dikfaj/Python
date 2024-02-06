@@ -8,13 +8,13 @@ Visualization : Matplotlib, Seaborn\
 Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 🔖 Table of Content
-- [Overview](##-📁-overview)
+- [Overview](##overview)
 - [Data Preprocessing](##data-preprocessing)
 - [Exploratory Data Analysis](##exploratory-data-analysis)
 - [RFM Analysis](##rfm-analysis)
 - [Recomendation](##recomendation)
 
-# 📁 Overview
+## Overview
 Dengan meningkatnya permintaa dan persaingan ketat di pasar, Superstore Giant ingin mengetahui produk, wilayah, kategori, dan segmen pelanggan mana yang sebaiknya menjadi target atau dihindari.
 
 Apa yang akan dilakukan:
