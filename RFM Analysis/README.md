@@ -1,11 +1,14 @@
 
-# RFM Analysis
+# RFM Analysis Using Superstore Dataset
 
 Tool : Jupyter Notebook\
 Programming Language : Python\
 Libraries : Pandas\
 Visualization : Matplotlib, Seaborn\
 Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+## Table of Content
+
 
 ## Overview
 Dengan meningkatnya permintaa dan persaingan ketat di pasar, Superstore Giant ingin mengetahui produk, wilayah, kategori, dan segmen pelanggan mana yang sebaiknya menjadi target atau dihindari.
