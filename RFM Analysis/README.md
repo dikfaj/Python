@@ -46,7 +46,7 @@ Hasil dari Data Assessment yaitu
 ## Exploratory Data Analysis
 ### Transaction Data
 #### Statistical Summary
-
+![Transaksi](https://github.com/dikfaj/Python/assets/39393133/51d12956-061d-4a13-ad90-a683d13d4c39)
 - **Transaksi paling besar** terjadi di tahun **2014**
 - **Transaksi bulanan terbesar** terjadi pada bulan **November**
 - **Transaksi kuartal terbesar** terjadi pada **kuarter ke empat**
@@ -70,7 +70,7 @@ Tren transaksi harian fluktuatif namun mengalami kenaikan pada akhir tahun. Tran
 
 ### Product Data
 #### Statistical Summary
-![Transaksi](https://github.com/dikfaj/Python/assets/39393133/51d12956-061d-4a13-ad90-a683d13d4c39)
+
 - Category paling banyak dibeli adalah **office supplies** denngan 60% dari total transaksi
 - **15.29%** dari customer membeli di sub category **binders**
 - **2.27%** dari customer membeli **staples**
