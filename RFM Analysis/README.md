@@ -70,7 +70,7 @@ Tren transaksi harian fluktuatif namun mengalami kenaikan pada akhir tahun. Tran
 
 ### Product Data
 #### Statistical Summary
-
+![product summary](https://github.com/dikfaj/Python/assets/39393133/e6eeb498-310c-4cb7-945c-055324b78aae)
 - Category paling banyak dibeli adalah **office supplies** denngan 60% dari total transaksi
 - **15.29%** dari customer membeli di sub category **binders**
 - **2.27%** dari customer membeli **staples**
