@@ -1,5 +1,5 @@
 
-# 🏬 RFM Analysis Using Superstore Dataset
+# 🏬 Customer Segmentation with RFM Analysis
 
 Tool : Jupyter Notebook\
 Programming Language : Python\
