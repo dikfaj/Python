@@ -51,27 +51,32 @@ Hasil dari data asessment
   
 ## Data Visualization
 ### Customer Demography
-[image]<br>
+
+![Customer](https://github.com/dikfaj/Python/assets/39393133/1bfb22ad-b886-4d5c-ac9d-7d37fe0f464e)\
 97.44% pelanggan hotel ada pelanggan baru.
 
-[image]<br>
+![statuspemesanan](https://github.com/dikfaj/Python/assets/39393133/910e36bd-0923-41ce-ab00-d6942f0545f9)\
 32.83% pelanggan melakukan pembatalan pemesanan.
 
-[image]<br>
+
+![monthlyBooking](https://github.com/dikfaj/Python/assets/39393133/6fd283d6-72e8-423e-9add-4069228c1fb1)\
 Pada bulan Januari, tercatat **jumlah pemesanan yang rendah** dengan **tingkat pembatalan yang minimal**. Seiring berjalannya waktu, **jumlah pemesanan mengalami peningkatan**, namun **tingkat pembatalan juga meningkat** sejalan dengan itu. 
 Terdapat peristiwa signifikan pada bulan Juli, di mana terjadi **penurunan drastis dalam jumlah pemesanan**, disertai dengan mencapainya **tingkat pembatalan tertinggi sebesar 45%**. 
 Yang menarik adalah ketika pemesanan **mencapai puncak** akan diikuti dengan **penurunan**, misalnya pada bulan April-Mei, Juni-Juli dan Oktober-November.
 
-[image]
+
+![marketSegmen](https://github.com/dikfaj/Python/assets/39393133/88174b02-f43e-4276-9b97-e6a5b2560620)\
 Online merupakan market segment type yang paling banyak melakukan pemesanan diikuti oleh offline.
 
 ### Stay Duration Analysis
-[image]
+
+![StayDuration](https://github.com/dikfaj/Python/assets/39393133/e8e46be1-cd0b-4542-a0b9-c2bceb56c89b)\
 Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi.
 Manajemen hotel dapat mempertimbangkan strategi khusus untuk mengurangi tingkat pembatalan pada durasi menginap yang lebih lama. Misalnya, promosi khusus untuk pemesanan jangka panjang atau komunikasi lebih aktif dengan pelanggan untuk memastikan kejelasan rencana mereka. 
 Selain itu, durasi menginap kurang dari 1 minggu memiliki tingkat pembatalan yang rendah, manajemen juga dapat menerapkan strategi khusus misalnya dengan membatasi durasi menginap.
 
 ### Lead Time Analysis
+![leadTime](https://github.com/dikfaj/Python/assets/39393133/7d90a911-355a-4c89-8209-20aa241bf2b6)\
 Tingkat pembatalan pemesanan cenderung meningkat seiring dengan peningkatan masa tunggu.\nDengan kata lain, semakin lama masa tunggunya, semakin tinggi kemungkinan mereka membatalkan pemesanan.
 Manajemen hotel dapat mempertimbangkan strategi khusus untuk mengurangi tingkat pembatalan terutama pada masa tunggi 6 bulan sampai lebih dari 1 tahun, seperti menawarkan kebijakan pembatalan yang flexibel atau promosi khusus untuk mendorong tetapnya reservasi.
 
