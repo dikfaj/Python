@@ -5,7 +5,7 @@ Tool : Jupyter Notebook\
 Programming Language : Python\
 Libraries : Pandas\
 Visualization : Matplotlib, Seaborn\
-Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Dataset : [Hotel Reservations Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
 ## 🔖 Table of Content
 - [Overview](#overview)
