@@ -1,6 +1,12 @@
 # 🏨Investigate Hotel Business using Data Visualization
 
-## Table of Content
+Tool : Jupyter Notebook\
+Programming Language : Python\
+Libraries : Pandas\
+Visualization : Matplotlib, Seaborn\
+Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+## 🔖 Table of Content
 - [Introduction](#introduction)
 - [Data Preprocessing](#data-preprocessing)
 - [Data Visualization](#data-visualization)
