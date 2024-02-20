@@ -56,35 +56,44 @@ Hasil dari data asessment
 
 97.44% pelanggan hotel adalah pelanggan baru sedangkan 2.56% adalah pelanggan lama atau yang pernah melakukan pemesanan. Manajamen hotel dapat mempertimbangkan untuk mengirimkan notifikasi email kepada pelanggan lama dengan tujuan untuk mendorong mereka kembali memesan hotel. Selain itu, pihak manajaemen juga harus memberikan pelayanan terbaik kepada pelanggan baru agar mereka kembali memesan hotel di masa depan.
 
-<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/910e36bd-0923-41ce-ab00-d6942f0545f9">
+<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/910e36bd-0923-41ce-ab00-d6942f0545f9"></p>
   
 32.83% pelanggan melakukan pembatalan pemesanan.
 
 
-![monthlyBooking](https://github.com/dikfaj/Python/assets/39393133/6fd283d6-72e8-423e-9add-4069228c1fb1)\
+<p align="center"><img src="(https://github.com/dikfaj/Python/assets/39393133/6fd283d6-72e8-423e-9add-4069228c1fb1"></p>
+
 Pada bulan Januari, tercatat **jumlah pemesanan yang rendah** dengan **tingkat pembatalan yang minimal**. Seiring berjalannya waktu, **jumlah pemesanan mengalami peningkatan**, namun **tingkat pembatalan juga meningkat** sejalan dengan itu. 
 Terdapat peristiwa signifikan pada bulan Juli, di mana terjadi **penurunan drastis dalam jumlah pemesanan**, disertai dengan mencapainya **tingkat pembatalan tertinggi sebesar 45%**. 
 Yang menarik adalah ketika pemesanan **mencapai puncak** akan diikuti dengan **penurunan**, misalnya pada bulan April-Mei, Juni-Juli dan Oktober-November.
 
 
-![marketSegmen](https://github.com/dikfaj/Python/assets/39393133/88174b02-f43e-4276-9b97-e6a5b2560620)\
-Online merupakan market segment type yang paling banyak melakukan pemesanan diikuti oleh offline.
+<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/88174b02-f43e-4276-9b97-e6a5b2560620"></p>
+
+Online merupakan market segment type yang paling banyak melakukan pemesanan sedangkan aviation merupakan market segment type dengan pemesanan paling sedikit. Manajemen hotel dapat melakukan kerja sama dengan perusahaan aviasi lainnya untuk melakukan pemesanan di hotel agar jumlah pemesanan pada market segment type ini meningkat.
 
 ### Stay Duration Analysis
+Analisis ini bertujuan untuk mengetahui hubungan antara durasi menginap dengan pembatalan pemesanan hotel.
 
-![StayDuration](https://github.com/dikfaj/Python/assets/39393133/e8e46be1-cd0b-4542-a0b9-c2bceb56c89b)\
-Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi.
+<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/e8e46be1-cd0b-4542-a0b9-c2bceb56c89b"></p>
+
+**Semakin lama durasi menginap**, maka **tingkat pembatalan semakin tinggi**.
 Manajemen hotel dapat mempertimbangkan strategi khusus untuk mengurangi tingkat pembatalan pada durasi menginap yang lebih lama. Misalnya, promosi khusus untuk pemesanan jangka panjang atau komunikasi lebih aktif dengan pelanggan untuk memastikan kejelasan rencana mereka. 
 Selain itu, durasi menginap kurang dari 1 minggu memiliki tingkat pembatalan yang rendah, manajemen juga dapat menerapkan strategi khusus misalnya dengan membatasi durasi menginap.
 
 ### Lead Time Analysis
-![leadTime](https://github.com/dikfaj/Python/assets/39393133/7d90a911-355a-4c89-8209-20aa241bf2b6)\
-Tingkat pembatalan pemesanan cenderung meningkat seiring dengan peningkatan masa tunggu.\nDengan kata lain, semakin lama masa tunggunya, semakin tinggi kemungkinan mereka membatalkan pemesanan.
+Analisis ini bertujuan untuk mengetahui hubungan antara masa tunggu dengan pembatalan hotel.
+
+<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/7d90a911-355a-4c89-8209-20aa241bf2b6"></p>
+
+Tingkat pembatalan pemesanan cenderung meningkat seiring dengan peningkatan masa tunggu. Dengan kata lain, **semakin lama masa tunggunya**, **semakin tinggi kemungkinan mereka membatalkan pemesanan**.
 Manajemen hotel dapat mempertimbangkan strategi khusus untuk mengurangi tingkat pembatalan terutama pada masa tunggi 6 bulan sampai lebih dari 1 tahun, seperti menawarkan kebijakan pembatalan yang flexibel atau promosi khusus untuk mendorong tetapnya reservasi.
 
-## Conclusion
-### 1. Bagaimana Demografi dari pelanggan? <br>
-97,4% merupakan pelanggan baru dengan tingkat pembatalan sebesar 32.83%. Dengan total pemesanan tertinggi pada bulan Juni dan Oktober. Market segment yang paling banyak melakukan pemesanan adalah online dan offline.
+## Summary and Recomendations
+1. 97,44% merupakan pelanggan baru dan 2.56% merupakan pelanggan lama. Dengan pembatalan hotel 32,83% dan pelanggan paling banyak berada pada segmen online sedangkan paling sedikit pada segmen aviasi. Beberapa 
+- 97,44% merupakan pelanggan baru : Manajaemen hotel harus memberikan pelayanan terbaik kepada pelanggan baru agar mereka kembali memesan hotel di masa depan.
+- 2.56% merupakan pelanggan lama : Manajamen hotel dapat mempertimbangkan untuk mengirimkan notifikasi email kepada pelanggan lama dengan tujuan untuk mendorong mereka kembali memesan hotel atau memberikan promosi khusus seperti voucher diskon.
+-  dengan tingkat pembatalan sebesar 32.83%. Dengan total pemesanan tertinggi pada bulan Juni dan Oktober. Market segment yang paling banyak melakukan pemesanan adalah online dan offline.
 
 ### 2. Apakah durasi menginap mempengaruhi tingkat pembatalan hotel?
 Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi. Durasi menginap dibawah 1 minggu memiliki tingkat pembatalan yang rendah  yaitu 32%.
