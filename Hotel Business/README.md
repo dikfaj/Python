@@ -52,10 +52,12 @@ Hasil dari data asessment
 ## Data Visualization
 ### Customer Demography
 
-![Customer](https://github.com/dikfaj/Python/assets/39393133/1bfb22ad-b886-4d5c-ac9d-7d37fe0f464e)\
-97.44% pelanggan hotel ada pelanggan baru.
+<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/1bfb22ad-b886-4d5c-ac9d-7d37fe0f464e"></p>
 
-![statuspemesanan](https://github.com/dikfaj/Python/assets/39393133/910e36bd-0923-41ce-ab00-d6942f0545f9)\
+97.44% pelanggan hotel adalah pelanggan baru sedangkan 2.56% adalah pelanggan lama atau yang pernah melakukan pemesanan. Manajamen hotel dapat mempertimbangkan untuk mengirimkan notifikasi email kepada pelanggan lama dengan tujuan untuk mendorong mereka kembali memesan hotel. Selain itu, pihak manajaemen juga harus memberikan pelayanan terbaik kepada pelanggan baru agar mereka kembali memesan hotel di masa depan.
+
+<p align="center"><img src="https://github.com/dikfaj/Python/assets/39393133/910e36bd-0923-41ce-ab00-d6942f0545f9">
+  
 32.83% pelanggan melakukan pembatalan pemesanan.
 
 
