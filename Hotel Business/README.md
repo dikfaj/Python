@@ -97,7 +97,7 @@ Manajemen hotel dapat mempertimbangkan strategi khusus untuk mengurangi tingkat 
 - Menjamin bahwa perusahaan hotel memiliki kebijakan pembatalan yang solid merupakan langkah penting. Perusahaan sebaiknya menyediakan atau menjelaskan persyaratan dan ketentuan sebelum pelanggan melakukan pemesanan, termasuk informasi terkait pengembalian dana dan biaya pembatalan. Kebijakan pembatalan yang lebih ketat dapat berdampak signifikan, selain itu juga dapat mengurangi risiko pemesanan yang tidak jujur.
 - Membatasi durasi menginap dibawah 1 minggu dan ,emberlakukan tarif non-refunable untuk durasi menginap yang lama. Bertujuan untuk meningkatkan pendapatan dan mengurangi risiko pembatalan.
 
-#### 3. Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi. Tingkat pembatalan hotel cenderung meningkat seiring dengan peningatan masa tunggu. Dengan kata lain semakin lama masa tunggunya, maka semakin besar kemungkinan pelanggan untuk membatalkan pesanannya. Beberapa rekomendasi bisnis untuk hal ini yaitu :
+#### 3. Semakin masa tunggu, maka tingkat pembatalan semakin tinggi. Tingkat pembatalan hotel cenderung meningkat seiring dengan peningatan masa tunggu. Dengan kata lain semakin lama masa tunggunya, maka semakin besar kemungkinan pelanggan untuk membatalkan pesanannya. Beberapa rekomendasi bisnis untuk hal ini yaitu :
 - Mengirimkan notifikasi melalui email mengenai pemesanan hotel mereka. Hal ini dilakukan untuk menunjukkan pelayanan yang baik kepada pelanggan.
 - Alih-alih membatalkan pesanan, manajemen hotel dapat memberikan opsi seperti perubahan jadwal.
 
