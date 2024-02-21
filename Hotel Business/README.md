@@ -88,16 +88,16 @@ Tingkat pembatalan pemesanan cenderung meningkat seiring dengan peningkatan masa
 Manajemen hotel dapat mempertimbangkan strategi khusus untuk mengurangi tingkat pembatalan terutama pada masa tunggu 6 bulan sampai lebih dari 1 tahun, seperti menawarkan kebijakan pembatalan yang flexibel atau promosi khusus untuk mendorong tetapnya reservasi.
 
 ## Summary and Recomendations
-1. Beberapa rekomendasi bisnis untuk customer demography adalah: 
+#### 1. Beberapa rekomendasi bisnis untuk customer demography adalah: 
 - Manajaemen hotel harus memberikan pelayanan terbaik kepada pelanggan baru agar mereka kembali memesan hotel di masa depan.
 - Manajamen hotel dapat mempertimbangkan untuk mengirimkan notifikasi email kepada pelanggan lama dengan tujuan untuk mendorong mereka kembali memesan hotel atau memberikan promosi khusus seperti voucher diskon.
 - Market segment yang paling sedikit melakukan pemesanan hotel adalah Aviation. Manajemen hotel dapat melakukan kerjasama dengan perusahaan aviasi untuk meningkatkan jumlah pemesanan di segmen ini.
 
-2. Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi. Durasi menginap dibawah 1 minggu memiliki tingkat pembatalan yang rendah yaitu 32%. Beberapa rekomendasi bisnis untuk hal ini yaitu:
+#### 2. Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi. Durasi menginap dibawah 1 minggu memiliki tingkat pembatalan yang rendah yaitu 32%. Beberapa rekomendasi bisnis untuk hal ini yaitu:
 - Menjamin bahwa perusahaan hotel memiliki kebijakan pembatalan yang solid merupakan langkah penting. Perusahaan sebaiknya menyediakan atau menjelaskan persyaratan dan ketentuan sebelum pelanggan melakukan pemesanan, termasuk informasi terkait pengembalian dana dan biaya pembatalan. Kebijakan pembatalan yang lebih ketat dapat berdampak signifikan, selain itu juga dapat mengurangi risiko pemesanan yang tidak jujur.
 - Membatasi durasi menginap dibawah 1 minggu dan ,emberlakukan tarif non-refunable untuk durasi menginap yang lama. Bertujuan untuk meningkatkan pendapatan dan mengurangi risiko pembatalan.
 
-3. Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi. Tingkat pembatalan hotel cenderung meningkat seiring dengan peningatan masa tunggu. Dengan kata lain semakin lama masa tunggunya, maka semakin besar kemungkinan pelanggan untuk membatalkan pesanannya. Beberapa rekomendasi bisnis untuk hal ini yaitu :
+#### 3. Semakin lama durasi menginap, maka tingkat pembatalan semakin tinggi. Tingkat pembatalan hotel cenderung meningkat seiring dengan peningatan masa tunggu. Dengan kata lain semakin lama masa tunggunya, maka semakin besar kemungkinan pelanggan untuk membatalkan pesanannya. Beberapa rekomendasi bisnis untuk hal ini yaitu :
 - Mengirimkan notifikasi melalui email mengenai pemesanan hotel mereka. Hal ini dilakukan untuk menunjukkan pelayanan yang baik kepada pelanggan.
 - Alih-alih membatalkan pesanan, manajemen hotel dapat memberikan opsi seperti perubahan jadwal.
 
