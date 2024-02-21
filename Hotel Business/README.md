@@ -4,13 +4,13 @@ Tool : Jupyter Notebook\
 Programming Language : Python\
 Libraries : Pandas\
 Visualization : Matplotlib, Seaborn\
-Dataset : [Hotel Reservation Dataset]([https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset/code))
+Dataset : [Hotel Reservation Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset/code)
 
 ## 🔖 Table of Content
 - [Introduction](#introduction)
 - [Data Preprocessing](#data-preprocessing)
 - [Data Visualization](#data-visualization)
-- [Conclusion](#conclusion)
+- [Conclusion](#Summary-and-Recomendations)
 
 ## Introduction
 
